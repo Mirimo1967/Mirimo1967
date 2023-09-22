@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirimo1967
+- 👋 Hi, I’m Brenda Vivian Namirimo
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on tech projects
 - 📫 Reach me via @vivmirimo@gmail.com
